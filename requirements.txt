@@ -1,0 +1,5 @@
+numpy==1.17.3
+opencv-python
+tqdm
+insightface==0.1.5
+mxnet-cu102mkl --pre
